@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7301119399424965734}
   - component: {fileID: 497825033379138321}
   - component: {fileID: 4480040877464989072}
-  - component: {fileID: 7259730136692137235}
+  - component: {fileID: 4368110351279613941}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -235,7 +235,7 @@ TrailRenderer:
   m_Autodestruct: 0
   m_Emitting: 1
   m_ApplyActiveColorSpace: 1
---- !u!54 &7259730136692137235
+--- !u!54 &4368110351279613941
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -260,7 +260,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 112
+  m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!1 &1853952679615933927
 GameObject:
@@ -355,7 +355,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -6538903991835684241, guid: ca01a9e358578ee4394d989e5da19f24, type: 3}
+  - {fileID: 2100000, guid: 9fa114cd614554610aa0ecfb59d06937, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
